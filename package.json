@@ -1,25 +1,25 @@
 {
-  "name": "goit-js-hw-12-countries",
+  "name": "search-country-data",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/index.html --public-url /goit-js-hw-12-countries/",
+    "build": "parcel build src/index.html --public-url /search-country-data/",
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mdcreator/goit-js-hw-12-countries.git"
+    "url": "git+https://github.com/mdcreator/search-country-data.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mdcreator/goit-js-hw-12-countries/issues"
+    "url": "https://github.com/mdcreator/search-country-data/issues"
   },
-  "homepage": "https://mdcreator.github.io/goit-js-hw-12-countries",
+  "homepage": "https://mdcreator.github.io/search-country-data",
   "dependencies": {
     "gh-pages": "^3.1.0",
     "handlebars": "^4.7.6",
